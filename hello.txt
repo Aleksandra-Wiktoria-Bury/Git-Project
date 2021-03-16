@@ -1,3 +1,2 @@
 Hello
-I am test file!	
-anyung
+anyung - Korean
